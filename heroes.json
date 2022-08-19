@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "2e206014-b649-4a4c-aefb-a7d23545f27e",
+      "name": "Zuko",
+      "description": "Shooting fireballs",
+      "element": "fire"
+    },
+    {
+      "id": "ff27c271-3735-4620-9a50-eb2e42b6fc28",
+      "name": "Katara",
+      "description": "Creation of waves and ice walls",
+      "element": "water"
+    },
+    {
+      "id": "8861612a-eb6b-4b5d-a1ba-6718411aa1bb",
+      "name": "Toph ",
+      "description": "Throwing stones and creating walls",
+      "element": "earth"
+    },
+    {
+      "id": "3fbe72a7-95ac-4fe9-ad29-07f62d8dcf1b",
+      "name": "Aang",
+      "description": "Last avatar",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Всі",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Вогонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Вітер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
